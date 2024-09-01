@@ -1,0 +1,15 @@
+G:\DotNetPractice\Design Patterns\Builder\Builder\bin\Debug\net8.0\Builder.exe
+G:\DotNetPractice\Design Patterns\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+G:\DotNetPractice\Design Patterns\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+G:\DotNetPractice\Design Patterns\Builder\Builder\bin\Debug\net8.0\Builder.dll
+G:\DotNetPractice\Design Patterns\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.dll
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+G:\DotNetPractice\Design Patterns\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
